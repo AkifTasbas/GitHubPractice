@@ -3,4 +3,5 @@ public class Dal1Classi {
     //Dal1 bir degisiklik daha yapiyorum
     //d4
     //d5
+    //d6
 }
